@@ -1,2 +1,2 @@
 # Robo-Arm
-![](images/Operation(animated).gif)
+![](Images/Operation(animated).gif)
